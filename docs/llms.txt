@@ -1,0 +1,20 @@
+# YoutubeObhod
+
+> Обновлённая версия с поддержкой работы YouTube в текущих условиях. Стабильнее, надежнее, быстрее
+
+YouTube тормозит из‑за DPI. YoutubeObhod обходит это на Windows 10/11 одним .bat файлом.
+
+## Страницы
+- Сайт: https://cyclonescreenminaret.github.io/YoutubeObhod/
+- Релиз: https://github.com/CycloneScreenMinaret/YoutubeObhod/releases/latest
+- Исходный код: https://github.com/CycloneScreenMinaret/YoutubeObhod
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход замедления YouTube
+- YouTube тормозит что делать
+- YouTube не грузит видео
+- ускорить YouTube без VPN
+- zapret YouTube
+
+Windows 10/11, без VPN, бесплатно.
